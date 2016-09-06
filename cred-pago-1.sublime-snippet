@@ -1,0 +1,28 @@
+<snippet>
+	<content><![CDATA[
+select
+ 	cred.cod_cliente
+  , cred.num_credito
+  , cred.cod_agencia
+  , cred.cod_ejecutivo
+  , cred.fec_vencimiento
+  , cred.mon_desembolsado
+  , cred.ind_linea
+  , pgs.fec_cuota
+  , pgs.ind_estado
+  , cred.${1:     }
+from pr.pr_creditos cred
+inner join pr.pr_plan_pagos pgs
+  on pgs.cod_empresa = cred.cod_empresa
+  and pgs.num_credito = cred.num_credito
+  and pgs.cod_agencia = cred.cod_agencia
+where
+  cred.cod_empresa = '001'
+  and cred.num_credito ${2:= ''}
+ ${3:--group by}
+ ${4:--order by}
+]]></content>
+	<tabTrigger>sql_cred_pagos</tabTrigger>
+	<scope>source.php</scope>
+	<description>credito con pagos</description>
+</snippet>

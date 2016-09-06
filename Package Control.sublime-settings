@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Colorsublime",
+		"Comment-Snippets",
+		"Diffy",
+		"Git",
+		"Git Config",
+		"Indent XML",
+		"JavaScript Snippets",
+		"jQuery",
+		"jQuery Snippets pack",
+		"JSHint",
+		"Oracle PL SQL",
+		"Package Control",
+		"PHP Constructors",
+		"PowerShell",
+		"Razor",
+		"SVN"
+	]
+}

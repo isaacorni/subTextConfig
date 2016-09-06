@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+\$app->post('/${1:url}/:${2:datos}', function(\$${2:datos}) use (${3:\$app},${4:\$dal}){
+
+	//Service content
+	\$res = \$app->response();
+    \$res['Content-Type'] = 'application/json';
+    \$res['Cache-Control'] = 'no-cache, must-revalidate';
+	\$res['Pragma'] = 'no-cache';
+
+	\$params = array('${5:username}' => \$req->post('${5:username}'), '${6:password}' => \$req->post('${6:password}'), ${7:' ' = > });
+
+	\$result = \$dal->${9:FuncionEnDal()};
+
+	if(isset(\$_GET['callback'])){
+		echo \$_GET['callback'] . "(" .json_encode(\$result). ")";
+	}else{
+		echo json_encode(\$result);
+	}
+});
+]]></content>
+	<tabTrigger>appost</tabTrigger>
+	<scope>source.php</scope>
+	<description>$app->post()</description>
+</snippet>

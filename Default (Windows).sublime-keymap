@@ -1,0 +1,7 @@
+[
+	{ "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+
+	{ "keys": ["ctrl+alt+u"], "command": "unfold" },
+
+	{ "keys": ["ctrl+,"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} }
+]

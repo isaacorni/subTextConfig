@@ -1,0 +1,23 @@
+<snippet>
+	<content><![CDATA[
+\$app->get('/$1/:$2', function(\$$2) use (${3:\$app},${4:\$dal}){
+
+	//Service content
+	\$res = \$app->response();
+    \$res['Content-Type'] = 'application/json';
+    \$res['Cache-Control'] = 'no-cache, must-revalidate';
+	\$res['Pragma'] = 'no-cache';
+
+	\$result = \$dal->${6:FuncionEnDal()};
+
+	if(isset(\$_GET['callback'])){
+		echo \$_GET['callback'] . "(" .json_encode(\$result). ")";
+	}else{
+		echo json_encode(\$result);
+	}
+});
+]]></content>
+	<tabTrigger>appget</tabTrigger>
+	<scope>source.php</scope>
+	<description>$app->get()</description>
+</snippet>
