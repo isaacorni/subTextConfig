@@ -1,52 +1,74 @@
+GoNet - Paola Díaz
+    Me dijo que Mario le mandó mi CV a Florencio Lugo y por eso me están llamando
+
+
 Wilaen - Miguel Rivas <MRivas@wilaen.com>  
- 	Me postulé por LinkedIn y me contestaron pidiendome mis pretensiones económicas (bruto) y una razón para pertenecer a Wilaen
- 	Pediré 28-31K y diré: Mi intereés por formar parte del equipo de Wilaen es principalmente
- 
+    Me postulé por LinkedIn y me contestaron pidiendome mis pretensiones económicas (bruto) y una razón para pertenecer a Wilaen
+    Pedí 27-30K
+    Me pidió disponibilidad para una entrevista por Skype.
 
 Softtek - Karla Stephania López Galva
-	Me llamó por OCC porque le interesó mi perfil
-	Dijo que estoy en su rango, ofrece 24,700 brutos y varias prestaciones 'intangibles'
-	Ya le envié un CV extendido y me faltan hacer pruebas online
-	Ya hice sus pruebas online. Esperaré a ver qué me dice
+    Me llamó por OCC porque le interesó mi perfil
+    Dijo que estoy en su rango, ofrece 24,700 brutos y varias prestaciones 'intangibles'
+    Ya le envié un CV extendido y me faltan hacer pruebas online
+    Ya hice sus pruebas online. Esperaré a ver qué me dice
+    Hice entrevista con su cliente, creo que era AON y me dijo que por las pruebas en line de POO, soy junior pero por la entrevista soy proficient
+    Me postulará para otro proyecto con la misma lana pero en el edificio Raphael en Eugenia.
 
 Grupo IS - Pablo Corro
-	Me llamó porque le interesó mi perfil de OCC y me dijo que estoy dentro de su rango con posibilidad de negociar
-	Tengo cita con él el viernes 9 de Sep a las 8.30 frente Antara-Polanco.
-	Puso en el correo que le interesó mucho mi perfil y dice que es para trabajar cerca de la torre de Axa (FeFi)
-	Tengo que madarle las respuestas del examen de lógica.
+    Me llamó porque le interesó mi perfil de OCC y me dijo que estoy dentro de su rango con posibilidad de negociar
+    Tengo cita con él el viernes 9 de Sep a las 8.30 frente Antara-Polanco.
+    Puso en el correo que le interesó mucho mi perfil y dice que es para trabajar cerca de la torre de Axa (FeFi)
+    Tengo que madarle las respuestas del examen de lógica.
+    Creo que ya valió
 
 Spot IT - Karla Cruz
-	Postulación por OCC, yo la mandé
-	Es para trabajar en la autopista México-Qro. Quedamos de que va a ver con su cliente para que me llame
-	La voy a mandar a volar y le voy a dar el contacto al Joel
+    Postulación por OCC, yo la mandé
+    Es para trabajar en la autopista México-Qro. Quedamos de que va a ver con su cliente para que me llame
+    La voy a mandar a volar y le voy a dar el contacto al Joel
 
 TriadaSystems - Graciela Hernández
-	La agregué por Skype y le pedí que me programemos con tiempo un meeting.
-	Tienen sueldo abierto y le acabo de indicar mis pretenciones.
-	Mejor le llamo por Whats
+    La agregué por Skype y le pedí que me programemos con tiempo un meeting.
+    Tienen sueldo abierto y le acabo de indicar mis pretenciones.
+    Mejor le llamo por Whats
 
 JOIN BUSSINESS LOCAL GROUP - Luz Ariadna Pérez
-	Sus datos:
-		Tel.: 67174100 Ext: 1549 Cel.: 55 4044 0762 Skype: luz.ariadna.perez.briseno lperez@ecosistemasmexico.com
-	Quedé de llamarle
+    Sus datos:
+        Tel.: 67174100 Ext: 1549 Cel.: 55 4044 0762 Skype: luz.ariadna.perez.briseno lperez@ecosistemasmexico.com
+    Quedé de llamarle
 
 AGS Nasoft - Elizabeth Alvarado
-	Estoy dentro de sus rangos salariales
-	Me dijo que le diera mi correo para que me mandara unas pruebas. No las mandó y me dijo que por Skype, que se abra
+    Estoy dentro de sus rangos salariales
+    Me dijo que le diera mi correo para que me mandara unas pruebas. No las mandó y me dijo que por Skype, que se abra
 
-	/*========================================================
-	=            NOTAS PARA BÚSQUEDA DE EMPLEO =)            =
-	========================================================*/
-	
-	Agregar los cursos y certificaciones al CV extendido
-	
-	/*=====  End of NOTAS PARA BÚSQUEDA DE EMPLEO =)  ======*/
+    /*========================================================
+    =            NOTAS PARA BÚSQUEDA DE EMPLEO =)            =
+    ========================================================*/
+    
+    Agregar los cursos y certificaciones al CV extendido
+    
+    /*=====  End of NOTAS PARA BÚSQUEDA DE EMPLEO =)  ======*/
 
 
-						/*----------  Preguntas que debo hacer en las entrevistas  ----------*/
+                        /*----------  Preguntas que debo hacer en las entrevistas  ----------*/
 1.- Cuáles son los valores de la empresa/equipo y qué características en los empleados buscan que se acomoden a estos valores?
 2.- Personalmente, cuál es tu parte favorita de trabajar para ___________________?
 3.- Cuáles son los KPIs (Key Performance Indicators) del puesto y qué tan seguido los miden?
 4.- Quiénes serían los compañeros y las áreas más cercanas con quienes estaré trabajando?
 5.- Hay alguna parte de mi backgground que te haría cuestionarte si soy el indicado para el puesto?
 
+
+                        /*----------  POSIBLES PREGUNTAS QUE ME HARÁN  ----------*/
+* HR
+  Cuál ha sido tu mayor reto?
+  Cuál ha sido tu mayor logro?
+  Qué proyecto te ha gustado más?
+  Qué te mantiene en tu trabajo?
+  Por qué te quieres cambiar de trabajo?
+  Cuéntame un poco de ti
+    • Mi carrera
+    • A dónde voy?
+
+* TECHNICAL
+  En qué parte del ciclo de vida del software te sientes más cómodo trabajando?
+  Cómo sabes que lo que estás haciendo funciona?
