@@ -41,4 +41,12 @@ AGS Nasoft - Elizabeth Alvarado
 	Agregar los cursos y certificaciones al CV extendido
 	
 	/*=====  End of NOTAS PARA BÚSQUEDA DE EMPLEO =)  ======*/
-	
+
+
+						/*----------  Preguntas que debo hacer en las entrevistas  ----------*/
+1.- Cuáles son los valores de la empresa/equipo y qué características en los empleados buscan que se acomoden a estos valores?
+2.- Personalmente, cuál es tu parte favorita de trabajar para ___________________?
+3.- Cuáles son los KPIs (Key Performance Indicators) del puesto y qué tan seguido los miden?
+4.- Quiénes serían los compañeros y las áreas más cercanas con quienes estaré trabajando?
+5.- Hay alguna parte de mi backgground que te haría cuestionarte si soy el indicado para el puesto?
+
