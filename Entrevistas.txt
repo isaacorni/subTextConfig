@@ -1,5 +1,8 @@
 ﻿GoNet - Paola Díaz
     Me dijo que Mario le mandó mi CV a Florencio Lugo y por eso me están llamando
+    Pendientes para enviar:
+    	• Escanear mi acta de nacimiento
+    	• 
 
 
 Wilaen - Miguel Rivas <MRivas@wilaen.com>  
@@ -80,3 +83,22 @@ PAOLA EDIBETH HERNÁNDEZ LÓPEZ  -  HSBC
 Cta	       6286386091
 CLABE	021180062863860913
 email	edibeth@gmail.com
+
+
+
+
+ 			2 Fotos tamaño infantil
+	1 	Currículum Vitae (formato personal y formato GoNet)
+	2 	Identificación  oficial. (IFE, pasaporte, visa, cédula profesional)
+* 3 	Acta de nacimiento
+	4 	Comprobante de CURP
+	5 	Comprobante de RFC
+*	6 	Comprobante de Número de Seguridad Social
+	7 	Comprobante de domicilio actual (de máximo dos meses a la fecha)
+	8 	Comprobante de último grado de estudio.
+X	9		Visa y pasaporte (en caso de contar con ellos)
+*	10	1 Carta de recomendación del empleo anterior
+*	11	1 Carta de referencias personal (no familiar)
+*	12	Copia de diplomas de cursos, diplomados y/o posgrados / certificaciones (en caso de contar con ellos)
+X	13	En caso de contar con crédito INFONAVIT ultimo estado de cuenta y aviso de retenciones
+X	14	Número de cuenta y cuenta clabe de los bancos SCOTIABANK Y SANTANDER (AMBAS CUENTAS SON NECESARIAS) 15
