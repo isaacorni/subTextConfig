@@ -59,6 +59,7 @@ AGS Nasoft - Elizabeth Alvarado
 3.- Cuáles son los KPIs (Key Performance Indicators) del puesto y qué tan seguido los miden?
 4.- Quiénes serían los compañeros y las áreas más cercanas con quienes estaré trabajando?
 5.- Hay alguna parte de mi backgground que te haría cuestionarte si soy el indicado para el puesto?
+6.- Actualmente cuentan con un proyecto a corto, mediano y/o largo plazo para el área/equipo de desarrollo?
 
 
                         /*----------  POSIBLES PREGUNTAS QUE ME HARÁN  ----------*/
@@ -74,7 +75,7 @@ AGS Nasoft - Elizabeth Alvarado
 
 * TECHNICAL
   En qué parte del ciclo de vida del software te sientes más cómodo trabajando?
-  Cómo sabes que lo que estás haciendo funciona?
+  Cómo sabes que lo que estás haciendo funciona? --> Unit Testing
 
 
 
